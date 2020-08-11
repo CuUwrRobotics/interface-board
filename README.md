@@ -13,5 +13,5 @@ This board is designed for our underwater robot, and connects to the Raspebrry P
 - 8 Individual leak sensors
 - 4 MOSFETs capable of driving 17A (connector limited)
 - 2 Current sensors capable of 17A (connector limited, sensors are capable of 50A)
-- 1 Arduino-compatible microcontroller for constant polling of inputs
-- 1 Configuration switch, with 4 switches, for changing any setting on the fly
+- 1 Microcontroller for I/O that needs constant attention
+- 1 Configuration chooser, with 4 switches, for changing any setting on the fly
