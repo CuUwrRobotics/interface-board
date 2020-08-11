@@ -1,6 +1,6 @@
 # Robot Hardware Interface Board
 
-This is a repository containing [@nichlock](https://github.com/nichlock)'s design for our hardware interfacing board. This is the board which the [board-interface](https://github.com/CuUwrRobotics/PiranhaBot-docs/blob/master/board_interface/README.md) package is designed to control. 
+This repository contains [@nichlock](https://github.com/nichlock)'s design for our hardware interfacing board. This is the board which the [board-interface](https://github.com/CuUwrRobotics/PiranhaBot-docs/blob/master/board_interface/README.md) package is designed to control. 
 
 ![Top of board, outside appearence](https://github.com/CuUwrRobotics/interface-board/blob/master/images/rev1-top-appearance.png)
 
